@@ -1,2 +1,2 @@
 # Probably-DS
-Repo for our college project.
+Repo for our college project on Data Structures.
